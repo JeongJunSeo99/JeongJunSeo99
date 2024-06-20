@@ -1,7 +1,9 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=10:1d6fec,90:06bff0&text=Welcome%20to%20Jun's%20GitHub&fontColor=e7e7e7&fontSize=40&&fontAlign=70&fontAlignY=35)
 
 # Hi there 👋
-🗨️ About me
+![](https://visitor-badge.glitch.me/badge?page_id=JeongJunSeo99)
+
+## 🗨️ About me
 <p align='left'> 
 • 🎍 I'm currently learning Back-End Skils
   <br/>
