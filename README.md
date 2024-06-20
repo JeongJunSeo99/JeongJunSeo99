@@ -5,7 +5,7 @@
 
 
 ## 🗨️ About me
-<p align='left'>백엔드 개발자 지망
+<p align='left'> - 백엔드 개발자 지망
 </p>
 
 
