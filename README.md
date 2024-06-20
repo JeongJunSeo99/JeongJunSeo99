@@ -3,15 +3,15 @@
 # Hi there 👋
 🗨️ About me
 <p align='left'> 
-• I'm currently learning Back-End Skils
+• 🎍 I'm currently learning Back-End Skils
   <br/>
-• HanWha SW Beyond Camp (2024.06 ~)
+• 💻 Hanwha SW Beyond Camp (2024.06 ~)
   <br/>
-• LikeLion Univ. (2023.01 ~ 2023.08)
+• 🦁 LikeLion Univ. (2023.01 ~ 2023.08)
   <br/>
-• 4STUP undergraduate research student (2021.03 ~ 2023.02)
+• 🧪 4STUP undergraduate research student (2021.03 ~ 2023.02)
   <br/>
-• Dankook Univ. (2018.03 ~ 2024.02)
+• 🏫 Dankook Univ. (2018.03 ~ 2024.02)
  
  <br/>
 
