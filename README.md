@@ -4,6 +4,7 @@
 [![Gmail Badge](https://img.shields.io/badge/-wjdwnstj0810@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wjdwnstj0810@gmail.com)](mailto:wjdwnstj0810@gmail.com) [![Github Badge](https://img.shields.io/badge/-JeongJunSeo99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JeongJunSeo99/)](https://www.github.com/JeongJunSeo99/) 
 
 <p></p>
+
 ## 🗨️ About me
 <p align='left'>백엔드 개발자 지망
 </p>
