@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=10:1d6fec,90:06bff0&text=Welcome%20to%20Jun's%20GitHub&fontColor=e7e7e7&fontSize=40&&fontAlign=70&fontAlignY=35)
 
 # Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=JeongJunSeo99)
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJeongJunSeo99&count_bg=%233D6AC8&title_bg=%23555555&icon=glassdoor.svg&icon_color=%23E7E7E7&title=visited&edge_flat=false)](https://hits.seeyoufarm.com)
 
 ## 🗨️ About me
 <p align='left'> 
