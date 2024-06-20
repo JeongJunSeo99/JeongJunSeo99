@@ -2,8 +2,12 @@
 
 
 ## Hi there 👋
-[![Gmail Badge](https://img.shields.io/badge/-wjdwnstj0810@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wjdwnstj0810@gmail.com)](mailto:wjdwnstj0810@gmail.com) [![Github Badge](https://img.shields.io/badge/-JeongJunSeo99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JeongJunSeo99/)](https://www.github.com/JeongJunSeo99/) <p align='left'>백엔드 개발자 지망
+[![Gmail Badge](https://img.shields.io/badge/-wjdwnstj0810@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wjdwnstj0810@gmail.com)](mailto:wjdwnstj0810@gmail.com) [![Github Badge](https://img.shields.io/badge/-JeongJunSeo99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JeongJunSeo99/)](https://www.github.com/JeongJunSeo99/) 
+
+------------------
+<p align='left'>백엔드 개발자 지망
 </p>
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JeongJunSeo99 alt=JeongJunSeo99 /> </p>
 
