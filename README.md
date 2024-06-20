@@ -2,7 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&reversal=true&color=10:1d6fec,90:06bff0&text=Welcome%20to%20Jun's%20GitHub&fontColor=e7e7e7&fontSize=40&&fontAlign=70&fontAlignY=35)
 -->
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Diphylleia&size=40&duration=3000&pause=1500&color=2288F7&random=false&width=800&height=100&lines=%F0%9F%8C%8F+Hello%2C+World!+%F0%9F%92%BB+Welcom+to+my+Github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=1500&color=2288F7&random=false&width=900&height=100&lines=%F0%9F%8C%8F+Hello%2C+World!+%F0%9F%92%BB+Welcom+to+my+Github)](https://git.io/typing-svg)
 
 # Hi there 👋
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JeongJunSeo99 alt=JeongJunSeo99 /> </p>
