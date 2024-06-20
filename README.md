@@ -2,7 +2,14 @@
 
 # Hi there 👋
 🗨️ About me
-<p align='left'> - 백엔드 개발자 지망
+<p align='left'> 
+• ![BrusselsSproutsVegetablesGIF](https://github.com/JeongJunSeo99/JeongJunSeo99/assets/82440364/d283640d-f506-41b4-832d-fd4d7712dc4c)
+I'm currently learning Back-End Skils
+• HanWha SW Beyond Camp (2024.06 ~)
+• LikeLion Univ. (2023.01 ~ 2023.08)
+• 4STUP undergraduate research student (2021.03 ~ 2023.02)
+• Dankook Univ. (2018.03 ~ 2024.02)
+ 
 </p>
 
 
