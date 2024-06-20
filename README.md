@@ -18,8 +18,9 @@
  <br/>
 
 ## 📞 Contact 📞
-[![Gmail Badge](https://img.shields.io/badge/-wjdwnstj0810@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wjdwnstj0810@gmail.com)](mailto:wjdwnstj0810@gmail.com) [![Github Badge](https://img.shields.io/badge/-JeongJunSeo99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JeongJunSeo99/)](https://www.github.com/JeongJunSeo99/) 
-<img src="https://img.shields.io/badge/[instagram](https://www.instagram.com/jjsi_99/)-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/wjdwnstj0810@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white">
+<img src="https://img.shields.io/badge/www.instagram.com/jjsi_99/-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
+<img src="https://img.shields.io/badge/JeongJunSeo-181717?style=for-the-badge&logo=github&logoColor=white">
 
 
 ## Ranking
