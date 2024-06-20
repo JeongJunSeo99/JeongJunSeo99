@@ -8,6 +8,11 @@
 <p align='left'>백엔드 개발자 지망
 </p>
 
+
+## Ranking
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj0810)](https://solved.ac/wnstj0810/)
+
+
 ## Some of my Github Stats
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JeongJunSeo99 alt=JeongJunSeo99 /> </p>
 
