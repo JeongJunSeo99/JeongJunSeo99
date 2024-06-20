@@ -19,7 +19,7 @@
 
 ## 📞 Contact 📞
 [![Gmail Badge](https://img.shields.io/badge/-wjdwnstj0810@gmail.com-c14438?style=flat&logo=Gmail&logoColor=white&link=mailto:wjdwnstj0810@gmail.com)](mailto:wjdwnstj0810@gmail.com) [![Github Badge](https://img.shields.io/badge/-JeongJunSeo99-grey?style=flat&logo=github&logoColor=white&link=https://github.com/JeongJunSeo99/)](https://www.github.com/JeongJunSeo99/) 
-    
+<img src="https://img.shields.io/badge/instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 
 ## Ranking
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=wnstj0810)](https://solved.ac/wnstj0810/)
