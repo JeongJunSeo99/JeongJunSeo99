@@ -55,7 +55,7 @@
 
 ## 📞 Contact 
 📧wjdwnstj0810@gmail.com 
-<--
+<!--
 <img src="https://img.shields.io/badge/wjdwnstj0810@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"> <img src="https://img.shields.io/badge/www.instagram.com/jjsi_99/-E4405F?style=for-the-badge&logo=instagram&logoColor=white"> <img src="https://img.shields.io/badge/JeongJunSeo99-181717?style=for-the-badge&logo=github&logoColor=white">
 -->
 <br/>
