@@ -41,7 +41,7 @@
 
 <strong>OS</strong>
 <br/>
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/>
+<img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/> <img src="https://img.shields.io/badge/Windows-0078D6?style=flat-square&logo=windows10&logoColor=white"/>
 
 <strong>Hosting</strong>
 <br/>
