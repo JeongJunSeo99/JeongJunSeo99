@@ -9,7 +9,7 @@
 
 ## 🗨️ About me
 <p align='left'> 
-• 🎍 I'm currently learning Back-End Skils
+• 🎍 I'm currently learning Back-End skils
   <br/>
 • 💻 Hanwha SW Beyond Camp (2024.06 ~)
   <br/>
