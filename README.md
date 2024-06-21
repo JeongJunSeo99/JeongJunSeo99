@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Permanent+Marker&size=40&duration=3000&pause=1500&color=2288F7&random=false&width=900&height=100&lines=%F0%9F%8C%8F+Hello%2C+World!+%F0%9F%92%BB+Welcom+to+my+Github)](https://git.io/typing-svg)
 
-# Hi there 👋
+## 👋 Hi there 
 <p align=left> <img src=https://komarev.com/ghpvc/?username=JeongJunSeo99 alt=JeongJunSeo99 /> </p>
 
 ## 🗨️ About me
