@@ -45,7 +45,7 @@
 
 <strong>Hosting</strong>
 <br/>
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white"/>
+<img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazonwebservices&logoColor=white"/>
 
 <strong>Others</strong>
 <br/>
