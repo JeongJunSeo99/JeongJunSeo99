@@ -11,9 +11,9 @@
 <p align='left'> 
 • 🎍 I'm currently learning Back-End skils
   <br/>
-• 💻 Hanwha SW Beyond Camp (2024.06 ~)
+• 💻 Hanwha SW Beyond Camp 9th(2024.06 ~)
   <br/>
-• 🦁 LikeLion Univ. (2023.01 ~ 2023.08)
+• 🦁 LikeLion Univ 9th (2023.01 ~ 2023.08)
   <br/>
 • 🧪 4STUP undergraduate research student (2021.03 ~ 2023.02)
   <br/>
