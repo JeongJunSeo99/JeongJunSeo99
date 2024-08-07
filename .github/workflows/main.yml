@@ -20,7 +20,7 @@ jobs:
           git config user.name JeongJunSeo99
           git config user.email wnstj0810@naver.com
           git remote set-url origin https://github.com/JeongJunSeo99/JeongJunSeo99.git
+          git pull origin main
           git add -A .
           git commit -m "generated"
-          git pull origin main
           git push https://$GITHUB_TOKEN@github.com/JeongJunSeo99/JeongJunSeo99.git
