@@ -69,6 +69,5 @@
 
 ## Some of my Github Stats
 
+![](./profile-3d-contrib/profile-3d-contrib/profile-night-rainbow.svg)
 
-[![Github stats](https://github-readme-stats.vercel.app/api?username=JeongJunSeo99&show_icons=true&include_all_commits=true)](https://github.com/JeongJunSeo99/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JeongJunSeo99&layout=compact)](https://github.com/JeongJunSeo99/github-readme-stats)
