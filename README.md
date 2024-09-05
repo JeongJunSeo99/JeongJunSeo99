@@ -11,11 +11,13 @@
 <p align='left'> 
 • 🎍 I'm currently learning Back-End skils
   <br/>
-• 💻 Hanwha SW Beyond Camp 9th(2024.06 ~)
+• 💻 Hanwha SW Beyond Camp 9기 (2024.06 ~)
   <br/>
-• 🦁 LikeLion Univ 9th (2023.01 ~ 2023.08)
+• 🦁 멋쟁이 사자처럼 9기 (2023.01 ~ 2023.08)
   <br/>
-• 🧪 4STUP undergraduate research student (2021.03 ~ 2023.02)
+• 🔍 2022 초기창업패키지 창업클럽 (2022.06 ~ 2022.11)  
+  <br/>
+• 🧪 'DKU 모바일 기술 연구실' 학부 연구원 & 연구실장 (2021.03 ~ 2023.02)
   <br/>
 • 🏫 Dankook Univ. (2018.03 ~ 2024.02)
  
